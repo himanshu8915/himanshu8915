@@ -1,4 +1,4 @@
-::: {align="center"}
+:::
 # Himanshu Sharma
 
 ### AI/ML Engineer · Deep Learning · LLM Systems · Agentic AI
