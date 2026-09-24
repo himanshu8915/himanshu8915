@@ -1,5 +1,4 @@
-:::
-# Himanshu Sharma
+#                                        Himanshu Sharma
 
 ### AI/ML Engineer · Deep Learning · LLM Systems · Agentic AI
 
@@ -8,7 +7,7 @@ reliable, efficient deployment.**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/07himanshusharma/)
 [![GitHub](https://img.shields.io/badge/GitHub-himanshu8915-181717?style=flat&logo=github&logoColor=white)](https://github.com/himanshu8915)
-:::
+
 
 ------------------------------------------------------------------------
 
